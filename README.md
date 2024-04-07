@@ -11,8 +11,6 @@ Watch my *[DEMO VIDEO!](https://www.youtube.com/watch?v=KkMDCCdjyW8)*
   * python semantic & syntax
 * [Doublebeeper](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/DoubleBeepers.py)
   * python semantic & syntax
-* [InfiniteLoop](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/InfiniteLoop.py)
-  * python semantic & syntax
 * [MoveToTheEnd](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/MoveToTheEnd.py)
   * python semantic & syntax
 * [PotholeFilling](https://github.com/JANETWANG333/MystanCodeProJects/blob/main/python----stancode/PotholeFilling.py)
